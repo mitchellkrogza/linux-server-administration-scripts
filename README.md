@@ -14,7 +14,7 @@ success or failure message. I wrote this 5 years ago and it works like a charm a
 white hiney on a few occasions.
 
 
-
+### If these help you [why not buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKF9XT6WHATLG):beer:
 
 
 MIT License
